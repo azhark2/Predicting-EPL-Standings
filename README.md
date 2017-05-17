@@ -5,7 +5,7 @@ Data_IO.ipynb
 LinearRegression.ipynb  
 Machine_Learning_Preparation-raw_data.ipynb  
 Machine_Learning_Preparation.ipynb  
-SVM.ipynb  Jupyter notebook showing the support vector machine (SVM) regression method  
+SVM.ipynb: Jupyter notebook showing the support vector machine (SVM) regression method  
 Team_Attributes.ipynb  
 Team_Attributes_Separation.ipynb  
 premier_league_scores.ipynb  

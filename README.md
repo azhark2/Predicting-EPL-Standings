@@ -1,18 +1,18 @@
 # Scikit-learn-Project  
 
-Data_Exploration.ipynb
-Data_IO.ipynb
-LinearRegression.ipynb
-Machine_Learning_Preparation-raw_data.ipynb
-Machine_Learning_Preparation.ipynb
-SVM.ipynb
-Team_Attributes.ipynb
-Team_Attributes_Separation.ipynb
-premier_league_scores.ipynb
-season_points_scraping.ipynb
-team_attributes_processed-2009-2010-raw_data.csv
-team_attributes_processed-2010-2011-raw_data.csv
-team_attributes_processed-2011-2012-raw_data.csv
-team_attributes_processed-2013-2014-raw_data.csv
-team_attributes_processed-2014-2015-raw_data.csv
-team_attributes_processed-2015-2016-raw_data.csv
+Data_Exploration.ipynb  
+Data_IO.ipynb  
+LinearRegression.ipynb  
+Machine_Learning_Preparation-raw_data.ipynb  
+Machine_Learning_Preparation.ipynb  
+SVM.ipynb  
+Team_Attributes.ipynb  
+Team_Attributes_Separation.ipynb  
+premier_league_scores.ipynb  
+season_points_scraping.ipynb  
+team_attributes_processed-2009-2010-raw_data.csv  
+team_attributes_processed-2010-2011-raw_data.csv  
+team_attributes_processed-2011-2012-raw_data.csv  
+team_attributes_processed-2013-2014-raw_data.csv  
+team_attributes_processed-2014-2015-raw_data.csv  
+team_attributes_processed-2015-2016-raw_data.csv  

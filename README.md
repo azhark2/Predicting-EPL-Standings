@@ -13,7 +13,7 @@
 
 
 </br>  
-## Data (prepared for machine learning):
+## Data (prepared for machine learning):  
 ---  
 *Raw Data*  
 team_attributes_processed-2009-2010-raw_data.csv  

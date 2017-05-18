@@ -9,7 +9,7 @@
 `Machine_Learning_Preparation-raw_data.ipynb`: takes the data from each year and combines it with the associated team name and team points. Does not standardize data - outputs are in *Raw Data* section.   
 `Data_Exploration.ipynb`: Visualizes the data in the *Raw Data* section.  
 `LinearRegression.ipynb`: Performs linear regression on data   
-`SVM.ipynb`: Jupyter notebook showing the support vector machine (SVM) regression method  
+`SVM.ipynb`: Jupyter notebook showing the support vector machine (SVM) regression method   
 
 
 </br>  

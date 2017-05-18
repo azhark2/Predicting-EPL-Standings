@@ -11,6 +11,7 @@
 `LinearRegression.ipynb`: Performs linear regression on data   
 `SVM.ipynb`: Jupyter notebook showing the support vector machine (SVM) regression method 
 `RandomForestRegressor.ipynb`: Performs regression on normalized data using random forest model, utilizing grid search to find optimal parameters for the model
+
 `RandomForestRegressor_with_PCA.ipynb`: Performs regression on raw data using random forest model, utilizing grid search to find optimal parameters for the model after Principal Component Analysis on the features
 
 </br>  

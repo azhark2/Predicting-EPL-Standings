@@ -10,7 +10,6 @@
 `Data_Exploration.ipynb`: Visualizes the data in the *Raw Data* section.  
 `LinearRegression.ipynb`: Performs linear regression on data   
 `SVM.ipynb`: Jupyter notebook showing the support vector machine (SVM) regression method   
-  
 </br>  
 ## Data (prepared for machine learning):  
 ---  

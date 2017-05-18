@@ -1,0 +1,21 @@
+,Team,Season,buildUpPlaySpeed,buildUpPlayDribbling,buildUpPlayPassing,chanceCreationPassing,chanceCreationCrossing,chanceCreationShooting,defencePressure,defenceAggression,defenceTeamWidth,buildUpPlaySpeedClass,buildUpPlayDribblingClass,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassingClass,chanceCreationCrossingClass,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressureClass,defenceTeamWidthClass,defenceAggressionClass_Press,defenceAggressionClass_Double,defenceAggressionClass_Contain,defenceDefenderLineClass_Cover,defenceDefenderLineClass_Offside Trap,Score
+0,Manchester City,2011/2012,45.0,49.0,55.0,40.0,38.0,48.0,50.0,60.0,54.0,2,1,2,1,2,2,2,0,2,2,1,0,0,1,0,89
+1,Manchester United,2011/2012,46.0,49.0,54.0,46.0,60.0,55.0,40.0,50.0,56.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,89
+2,Arsenal,2011/2012,25.0,49.0,32.0,41.0,34.0,30.0,57.0,57.0,52.0,1,1,1,1,2,2,1,0,2,2,1,0,0,1,0,70
+3,Tottenham Hotspur,2011/2012,44.0,49.0,47.0,52.0,63.0,61.0,43.0,44.0,51.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,69
+4,Newcastle United,2011/2012,54.0,49.0,54.0,54.0,68.0,48.0,52.0,48.0,42.0,2,1,2,1,2,3,2,1,2,2,1,0,0,1,0,65
+5,Chelsea,2011/2012,60.0,49.0,45.0,55.0,45.0,45.0,60.0,62.0,46.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,64
+6,Everton,2011/2012,56.0,49.0,56.0,48.0,57.0,56.0,50.0,50.0,60.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,56
+7,Liverpool,2011/2012,60.0,49.0,60.0,48.0,73.0,53.0,50.0,48.0,62.0,2,1,2,1,2,3,2,1,2,2,1,0,0,1,0,52
+8,Fulham,2011/2012,48.0,49.0,45.0,38.0,62.0,54.0,38.0,38.0,62.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,52
+9,West Bromwich Albion,2011/2012,48.0,49.0,48.0,45.0,60.0,54.0,38.0,38.0,52.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,47
+10,Swansea City,2011/2012,26.0,49.0,24.0,62.0,39.0,57.0,48.0,58.0,60.0,1,1,1,1,2,2,2,0,2,2,1,0,0,1,0,47
+11,Norwich City,2011/2012,63.0,49.0,61.0,42.0,76.0,62.0,40.0,50.0,42.0,2,1,2,1,2,3,2,1,2,2,1,0,0,1,0,47
+12,Sunderland,2011/2012,67.0,49.0,62.0,44.0,72.0,59.0,47.0,53.0,60.0,3,1,2,1,2,3,2,1,2,2,1,0,0,1,0,45
+13,Stoke City,2011/2012,75.0,49.0,75.0,40.0,72.0,55.0,50.0,58.0,45.0,3,1,3,1,2,3,2,1,2,2,1,0,0,1,0,45
+14,Wigan Athletic,2011/2012,38.0,49.0,38.0,54.0,42.0,42.0,40.0,42.0,44.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,43
+15,Aston Villa,2011/2012,67.0,49.0,58.0,44.0,60.0,56.0,43.0,50.0,52.0,3,1,2,1,2,2,2,1,2,2,1,0,0,1,0,38
+16,Queens Park Rangers,2011/2012,57.0,49.0,58.0,60.0,48.0,48.0,42.0,51.0,44.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,37
+17,Bolton Wanderers,2011/2012,57.0,49.0,56.0,45.0,54.0,54.0,48.0,48.0,58.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,36
+18,Blackburn Rovers,2011/2012,57.0,49.0,57.0,55.0,45.0,40.0,42.0,50.0,38.0,2,1,2,1,2,2,2,1,2,2,1,0,0,1,0,31
+19,Wolverhampton Wanderers,2011/2012,67.0,49.0,68.0,42.0,68.0,56.0,48.0,60.0,45.0,3,1,3,1,2,3,2,1,2,2,1,0,0,1,0,25

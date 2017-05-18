@@ -3,8 +3,8 @@
 `Data_IO.ipynb`: converts the SQL data from the [Kaggle](https://www.kaggle.com/hugomathien/soccer) competition into separate .csv files  
 `Team_Attributes.ipynb`: encodes categorial data from *Team_Attributes.csv* into numerical values; saves data as *Team_Attributes_processed_ordinal.csv*  
 `Team_Attributes_Separation.ipynb`: divides *Team_Attributes_processed_ordinal.csv* into five datasets according to year   
-`premier_league_scores.ipynb`: uses web-scraping to obtain team scores for various seasons.
-`season_points_scraping.ipynb`: uses web-scraping to obtain team scores for various seasons.  
+`premier_league_scores.ipynb`: uses web-scraping to obtain team points for various seasons.
+`season_points_scraping.ipynb`: uses web-scraping to obtain team points for various seasons.  
 `Machine_Learning_Preparation.ipynb`: takes the data from each year and combines it with the associated team name and team points; also standardizes the data (z-score normalization) - outputs are in *Standardized Data* section.      
 `Machine_Learning_Preparation-raw_data.ipynb`: takes the data from each year and combines it with the associated team name and team points. Does not standardize data - outputs are in *Raw Data* section.   
 `Data_Exploration.ipynb`: Visualizes the data in the *Raw Data* section.  

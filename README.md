@@ -1,4 +1,4 @@
-# Scikit-learn-Project  
+# Predicting English Premier League Standings  
 
 `Data_IO.ipynb`: converts the SQL data from the [Kaggle](https://www.kaggle.com/hugomathien/soccer) competition into separate .csv files  
 `Team_Attributes.ipynb`: encodes categorial data from *Team_Attributes.csv* into numerical values; saves data as *Team_Attributes_processed_ordinal.csv*  
